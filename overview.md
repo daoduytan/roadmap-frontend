@@ -28,7 +28,7 @@ Biết phần tích cây html, biết khi nào thì dùng thẻ nào.
 
 ### 4. Javascript/ES6/Typescript: Quan trọng
 
-4.1 Ngôn ngữ lập trình Javascript.
+1. Ngôn ngữ lập trình Javascript.
 
 - JS là gì?
 - Các kiểu dữ liệu trong JS.
@@ -48,7 +48,9 @@ Biết phần tích cây html, biết khi nào thì dùng thẻ nào.
 - Đọc thêm về các concepts khác trong JS: https://github.com/leonardomso/33-js-concepts
 - Coding convention: https://github.com/airbnb/javascript
   => Thành thạo sử dụng JS
-  4.2 Quản lý DOM và các sự kiện của trình duyệt
+
+2. Quản lý DOM và các sự kiện của trình duyệt
+
 - DOM là gì?
 - Quản lý DOM:
   - Tìm kiếm element
@@ -66,7 +68,7 @@ Biết phần tích cây html, biết khi nào thì dùng thẻ nào.
 
 Phân tích component + life cycle
 
-5.1 Cơ bản:
+1. Cơ bản:
 
 - JSX là gì?
 - Virtual DOM là gì?
@@ -81,7 +83,7 @@ Phân tích component + life cycle
 - HOC
 - ErrorBoundaries
 
-  5.2 Các modules
+2. Các modules
 
 - Routing:
   - react-router-dom
@@ -104,8 +106,8 @@ Phân tích component + life cycle
   - Styled component
   - Tự viết css/scss
 
-    5.3 Sử dụng Typescript
-    5.4 Apollo client
+3. Sử dụng Typescript
+4. Apollo client
 
 ### 6. Nextjs
 
