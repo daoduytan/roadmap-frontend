@@ -6,7 +6,7 @@
 
 Biết phần tích cây html, biết khi nào thì dùng thẻ nào.
 
-- Tìm hiểu và thử các tag khác nhau của HTML, mỗi tag có những attributes
+- T### ìm hiểu và thử các tag khác nhau của HTML, mỗi tag có những attributes
   nào.
 - Học cách phan tích cây html từ file design
 - SEO cơ bản với các thẻ meta, các thẻ html.
@@ -62,9 +62,11 @@ Biết phần tích cây html, biết khi nào thì dùng thẻ nào.
 - Quản lý navigation
 - Quản lý thư viện
 
-5. Reactjs/Angular/Vue
-   Phân tích component + life cycle
-   5.1 Cơ bản:
+### 5. Reactjs/Angular/Vue
+
+Phân tích component + life cycle
+
+5.1 Cơ bản:
 
 - JSX là gì?
 - Virtual DOM là gì?
@@ -103,19 +105,20 @@ Biết phần tích cây html, biết khi nào thì dùng thẻ nào.
   - Tự viết css/scss
 
     5.3 Sử dụng Typescript
-    5.5 Apollo client
+    5.4 Apollo client
 
-6. Nextjs
-   Nextjs là một thư viện có nhiều tính năng hay, cần thiết để tạo ra một website viết bằng reactjs support tốt cho SEO.
+### 6. Nextjs
+
+Nextjs là một thư viện có nhiều tính năng hay, cần thiết để tạo ra một website viết bằng reactjs support tốt cho SEO.
 
 - Phân biệt SSR/SSG/CSR và File-System Routings.
   => Làm được landing page, blogs
 
-7. Testing
+### 7. Testing
 
 - react-testing-library, jest, ...
 
-8. Tool
+### 8. Tool
 
 - Git
 - Terminal
@@ -127,7 +130,7 @@ Biết phần tích cây html, biết khi nào thì dùng thẻ nào.
 - Figma / Photoshop
 - v.v
 
-9. Soft skill
+### 9. Soft skill
 
 - Tinh thần đồng đội.
 - Giao tiếp làm việc với khách hàng, các bộ phận khác.
