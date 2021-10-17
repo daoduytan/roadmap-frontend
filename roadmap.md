@@ -1,9 +1,5 @@
 ### 1. Junior
 
-1.1 HTMML/CSS
-1.2 Javascript, ES6, Typescript
-1.3 ReactJs
-
 - JSX, Vitual DOM
 - CSS and Style in ReactJs
 - Component: Function Component, Class Component.
@@ -42,22 +38,23 @@
 
 - Frontend Ops:
 
-* Perfomance
-* Build Tools
+  - Perfomance
+  - Build Tools
 
 - Modern Web Tech:
-- PWA
-- Web Component
+
+  - PWA
+  - Web Component
 
 - UI, UX
 - E2E Testing
 
 - Backend:
 
-* REST API
-* GraphQl
+  - REST API
+  - GraphQl
 
 - Cross Platform
 
-* Mobile
-* Electron
+  - Mobile
+  - Electron
