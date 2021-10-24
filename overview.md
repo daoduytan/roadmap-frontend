@@ -6,11 +6,12 @@
 
 Biết phần tích cây html, biết khi nào thì dùng thẻ nào.
 
-- T### ìm hiểu và thử các tag khác nhau của HTML, mỗi tag có những attributes
+- Tìm hiểu và thử các tag khác nhau của HTML, mỗi tag có những attributes
   nào.
 - Học cách phan tích cây html từ file design
 - SEO cơ bản với các thẻ meta, các thẻ html.
-  => yêu cầu khi đưa ra một file design bất kỳ phải phân tích được cây HTML
+
+> yêu cầu khi đưa ra một file design bất kỳ phải phân tích được cây HTML
 
 ### 3. CSS/CSS3: quan trọng, quyết định nội dung HTML trông như thế nào, quyết định layout đẹp hay xấu.
 
@@ -24,7 +25,8 @@ Biết phần tích cây html, biết khi nào thì dùng thẻ nào.
 - Custom input, checkbox, dropdown,
 - Layout website với Flexbox / CSS Grid
 - Sử dụng SASS/LESS để viết css nhanh, dễ bảo trì.
-  => Làm được tất cả các loại giao diện.
+
+> Làm được tất cả các loại giao diện.
 
 ### 4. Javascript/ES6/Typescript: Quan trọng
 
@@ -47,7 +49,8 @@ Biết phần tích cây html, biết khi nào thì dùng thẻ nào.
 - Làm việc với REST APIs
 - Đọc thêm về các concepts khác trong JS: https://github.com/leonardomso/33-js-concepts
 - Coding convention: https://github.com/airbnb/javascript
-  => Thành thạo sử dụng JS
+
+> Thành thạo sử dụng JS
 
 2. Quản lý DOM và các sự kiện của trình duyệt
 
@@ -64,7 +67,7 @@ Biết phần tích cây html, biết khi nào thì dùng thẻ nào.
 - Quản lý navigation
 - Quản lý thư viện
 
-### 5. Reactjs/Angular/Vue
+### 5. Reactjs (Angular/Vue)
 
 Phân tích component + life cycle
 
@@ -86,18 +89,26 @@ Phân tích component + life cycle
 2. Các modules
 
 - Routing:
+
   - react-router-dom
   - Setup nested routings.
   - Lazy load module
+
 - State Management:
+
   - Redux: thunk, saga.
   - Priority: component state -> Redux, RecoilJS
+
 - Form management:
+
   - React-hook-form
   - Validation: yup
+
 - Api module
+
   - Axios
   - Setup axios client, setyp api file
+
 - UI Library:
 
   - Reactstrap
@@ -109,12 +120,13 @@ Phân tích component + life cycle
 3. Sử dụng Typescript
 4. Apollo client
 
-### 6. Nextjs
+### 6. Nextjs (Gastby)
 
 Nextjs là một thư viện có nhiều tính năng hay, cần thiết để tạo ra một website viết bằng reactjs support tốt cho SEO.
 
 - Phân biệt SSR/SSG/CSR và File-System Routings.
-  => Làm được landing page, blogs
+
+> Làm được landing page, blogs
 
 ### 7. Testing
 
