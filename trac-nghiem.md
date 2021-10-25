@@ -73,9 +73,9 @@ var girl = function() {
 girl()
 ```
 
-- [] 21
-- [] 20
-- [] null
+- [ ] 21
+- [ ] 20
+- [ ] null
 - [x] undefined
 
 7. Giá trị x được ghi ra ở đoạn code dưới đây là:
@@ -89,9 +89,9 @@ girl()
 ```
 
 - [x] 1
-- [] 2
-- [] null
-- [] undefined
+- [ ] 2
+- [ ] null
+- [ ] undefined
 
 9. Đoạn code dưới đây có kết quả là
 
@@ -99,10 +99,10 @@ girl()
 console.log(1 + "2" + "2")
 ```
 
-- [] undefined
-- [] 5
+- [ ] undefined
+- [ ] 5
 - [x] "122"
-- [] null
+- [ ] null
 
 10. Cho array có giá trị là:
 
@@ -112,7 +112,36 @@ var a = [1, 2, 3, null, undefined, 4];
 
 Giá trị nhận được khi `console.log(a.length)` là:
 
-- [] 3
-- [] 4
-- [] 5
+- [ ] 3
+- [ ] 4
+- [ ] 5
 - [x] 6
+
+11. Giá trị nhận được của đoạn code dưới là
+
+```
+var output = (function(x) {
+  delete x;
+  return x
+})(0)
+```
+
+- [ ] false
+- [x] 0
+- [ ] undefined
+- [ ] đáp án khác
+
+12. Giá trị nhận được của đoạn code dưới là
+
+```
+var x = {foo: 1}
+var output = (function(x) {
+  delete x.foo;
+  return x.foo
+})(0)
+```
+
+- [ ] false
+- [ ] 0
+- [x] undefined
+- [ ] đáp án khác
